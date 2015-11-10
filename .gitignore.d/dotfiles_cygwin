@@ -1,0 +1,12 @@
+*
+!/.config
+!/.config/mr
+!/.config/mr/config.d
+!/.config/mr/config.d/dotfiles_cygwin.vcsh
+!/.gitignore.d
+!/.gitignore.d/dotfiles_cygwin
+!/.minttyrc
+!/.src
+!/.src/dotfiles_cygwin.mrconfig
+!/doc
+!/doc/dotfiles_cygwin.md

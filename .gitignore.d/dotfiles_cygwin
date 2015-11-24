@@ -1,5 +1,7 @@
 *
 !/.config
+!/.config/env.d
+!/.config/env.d/dotfiles_cygwin
 !/.config/mr
 !/.config/mr/config.d
 !/.config/mr/config.d/dotfiles_cygwin.vcsh
@@ -8,5 +10,3 @@
 !/.minttyrc
 !/.src
 !/.src/dotfiles_cygwin.mrconfig
-!/doc
-!/doc/dotfiles_cygwin.md
